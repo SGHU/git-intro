@@ -1,1 +1,19 @@
 Dépôt distant pour apprendre à utiliser Git.
+
+# Exercice 1 
+
+- Créer sa fiche profile en markdown dans le dossier profiles.
+- Commit son changement avec un message et faire un push des changements. 
+
+# Exercice 2
+
+- Choisir un produit fictif, ridicule ou absurde, et de créer un fichier le dépôt contenant un guide d'utilisation pour ce produit.
+    - Un chaussure avec une fonction téléportation.
+    - Une brosse à dents à propulseurs pour brosser les dents à la vitesse de la lumière.
+    - Un frigo à teleportation de pizzas, capable de téléporter des pizzas dans n'importe quelle partie du monde à tout moment.
+- Rédiger le guide d'utilisation
+- Le guide doit avoir plusieurs sections
+    - Introduction : Présentez le produit en quelques lignes (en mettant en avant son côté absurde et inutile).
+    - Prérequis : Listez les éléments nécessaires pour utiliser le produit (par exemple, Un câble USB, un trou noir à proximité, et un assistant robotique qui sait programmer).
+    - Instructions d'utilisation : Décrivez comment utiliser le produit. Par exemple, pour une chaussure téléportation, les étapes pourraient être :
+- Faire un commit avec les changements et un message et faire un push de changements. 
