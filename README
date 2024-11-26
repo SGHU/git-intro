@@ -2,7 +2,7 @@ Dépôt distant pour apprendre à utiliser Git.
 
 # Exercice 1 
 
-- Créer sa fiche profile en markdown dans le dossier profiles.
+- Créer sa fiche profil en markdown dans le dossier profils.
 - Commit son changement avec un message et faire un push des changements. 
 
 # Exercice 2
@@ -17,3 +17,8 @@ Dépôt distant pour apprendre à utiliser Git.
     - Prérequis : Listez les éléments nécessaires pour utiliser le produit (par exemple, Un câble USB, un trou noir à proximité, et un assistant robotique qui sait programmer).
     - Instructions d'utilisation : Décrivez comment utiliser le produit. Par exemple, pour une chaussure téléportation, les étapes pourraient être :
 - Faire un commit avec les changements et un message et faire un push de changements. 
+
+## Exercice 3
+
+- Ajouter une Mise à jour du Produit (Version 2.0)
+- 
