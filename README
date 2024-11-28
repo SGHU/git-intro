@@ -8,18 +8,22 @@ Nous verrons ensemble comment faire un commit en ligne de commande et faire un p
 
 # Exercice 2
 
-- Choisir un produit fictif, ridicule ou absurde, et de créer un fichier le dépôt contenant un guide d'utilisation pour ce produit.
+- Imaginez un produit fictif, ridicule ou absurde, créez un fichier dans le dépôt contenant un guide d'utilisation pour ce produit. Par exemple:
     - Un chaussure avec une fonction téléportation.
     - Une brosse à dents à propulseurs pour brosser les dents à la vitesse de la lumière.
     - Un frigo à teleportation de pizzas, capable de téléporter des pizzas dans n'importe quelle partie du monde à tout moment.
-- Rédiger le guide d'utilisation
-- Le guide doit avoir plusieurs sections
-    - Introduction : Présentez le produit en quelques lignes (en mettant en avant son côté absurde et inutile).
+- Rédigez le guide d'utilisation dans un fichier .md que vous aurez créé.
+- Le guide doit avoir plusieurs sections:
+    - Introduction : Présentez le produit en quelques lignes (en mettant en avant son côté absurde et inutile). Faites un peu de marketing pour les futurs clients.
     - Prérequis : Listez les éléments nécessaires pour utiliser le produit (par exemple, Un câble USB, un trou noir à proximité, et un assistant robotique qui sait programmer).
-    - Instructions d'utilisation : Décrivez comment utiliser le produit. Par exemple, pour une chaussure téléportation, les étapes pourraient être :
-- Faire un commit avec les changements et un message et faire un push de changements. 
+    - Instructions d'utilisation : Décrivez comment utiliser le produit à l'aide de procédures. 
+    - Utilisez le markdown pour gérer les titres, sous-titres, listes ordonnées, listes non ordonnées et insertion d'images. ![https://www.markdownguide.org/basic-syntax/](Guide Markdown)
+
+Pour cela : créez une branche, faites vos commits, poussez votre branche puis faites un merge.
 
 ## Exercice 3
 
-- Ajouter une Mise à jour du Produit (Version 2.0)
-- 
+- Faites la Mise à jour du Produit (Version 2.0) d'un de vos camarades de classe.
+- Demandez la review de vos modifications à l'auteur de la Version 1.0
+
+Pour cela : créez une branche, faites vos commits, poussez votre branche puis faites un merge.
