@@ -2,8 +2,9 @@ Dépôt distant pour apprendre à utiliser Git.
 
 # Exercice 1 
 
-- Créer sa fiche profil en markdown dans le dossier profils.
-- Commit son changement avec un message et faire un push des changements. 
+- Créez votre fiche profil en markdown dans le dossier profils en le nommant à votre nom.
+
+Nous verrons ensemble comment faire un commit en ligne de commande et faire un push pour envoyer notre version locale vers la version distante.
 
 # Exercice 2
 
