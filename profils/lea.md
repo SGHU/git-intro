@@ -4,7 +4,7 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 ## 📝 Informations générales
 
-Prénom ou surnom préféré : Léa
+Prénom ou surnom préféré : lea
 
 Ton animal totem (et pourquoi) :
 
