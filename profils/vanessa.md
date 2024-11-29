@@ -8,7 +8,7 @@ Prénom ou surnom préféré : Vany
 
 Ton animal totem (et pourquoi) : Panda (symbolise la force tranquille)
 
-Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet.
+Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet. J'ai grimpé le Kilimandjaro.
 
 ## 🌐 Apprenons à te connaître
 
