@@ -6,9 +6,9 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 Prénom ou surnom préféré : sela
 
-Ton animal totem (et pourquoi) :
+Ton animal totem (et pourquoi) : elephant
 
-Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet.
+Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet. Je sais loucher d'un oeil; En primaire on devait faire une photo de classe avec grimaces et j'ai su ce jour là que je pouvais loucher d'un oeil.
 
 ## 🌐 Apprenons à te connaître
 
