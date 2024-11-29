@@ -11,7 +11,8 @@ Nous verrons ensemble comment faire un commit en ligne de commande et faire un p
 - Imaginez un produit fictif, ridicule ou absurde, créez un fichier dans le dépôt contenant un guide d'utilisation pour ce produit. Par exemple:
     - Un chaussure avec une fonction téléportation.
     - Une brosse à dents à propulseurs pour brosser les dents à la vitesse de la lumière.
-    - Un frigo à teleportation de pizzas, capable de téléporter des pizzas dans n'importe quelle partie du monde à tout moment.
+    - Un frigo à teleportation de pizzas, capable de téléporter des pizzas dans n'importe quelle partie du monde à tout 
+    moment.
 - Rédigez le guide d'utilisation dans un fichier .md que vous aurez créé.
 - Le guide doit avoir plusieurs sections:
     - Introduction : Présentez le produit en quelques lignes (en mettant en avant son côté absurde et inutile). Faites un peu de marketing pour les futurs clients.
