@@ -18,7 +18,8 @@ Pour commencer :
 
 2. **Enfilage des perles :**
    * Enfilez les perles sur le fil en suivant le motif de votre choix. Vous pouvez créer des motifs simples (alternance de couleurs, répétition d'un motif) ou des motifs plus complexes.
-   * Si vous utilisez une aiguille, enfilez-la dans le fil avant de commencer à enfiler les perles.
+   * Si vous utilisez une aiguille, enfilez-la dans le fil avant de commencer à enfiler les perles. (fine de preference)
+   )
 
 3. **Fixation des perles sur le tube :**
    * **Première méthode : enroulement**
