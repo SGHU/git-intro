@@ -14,7 +14,7 @@
 Pour commencer : 
 
 1. **Préparation du tube :**
-   * Si vous utilisez un tube de carton ou de papier toilette, vous pouvez le recouvrir de papier décoratif, de tissu ou le peindre pour lui donner un aspect plus esthétique.
+   * Si vous utilisez un tube de métal fluorescent ou de papier toilette, vous pouvez le recouvrir de papier décoratif, de tissu ou le peindre pour lui donner un aspect plus esthétique.
 
 2. **Enfilage des perles :**
    * Enfilez les perles sur le fil en suivant le motif de votre choix. Vous pouvez créer des motifs simples (alternance de couleurs, répétition d'un motif) ou des motifs plus complexes.
@@ -33,7 +33,7 @@ Pour commencer :
 
 ### Idées supplémentaires :
 
-* **Personnalisation :** Ajoutez des breloques, des pompons, des plumes ou d'autres éléments décoratifs à votre porte-stylo.
+* **Personnalisation :** Ajoutez des bonnets, des pompons, des plumes ou d'autres éléments décoratifs à votre porte-stylo.
 * **Supports différents :** Au lieu d'un tube, vous pouvez utiliser une branche, une bouteille en verre recyclée ou tout autre objet qui vous inspire.
 * **Techniques de tissage :** Pour un résultat plus sophistiqué, vous pouvez apprendre les techniques de tissage avec des perles (tissage peyote, tissage brick stitch, etc.).
 
