@@ -64,14 +64,14 @@ Pour toute question, envoyez vos pensées à notre service psychique. Temps de r
 Profitez de vos **Écouteurs Liseurs de Pensées™**, et souvenez-vous : *"Penser, c'est déjà communiquer"*... ou pas.  
 
 ## Garantie 
-###Durée: 
+### Durée: 
 12 mois à compter de la date d'achat.
 
-###Couverture:
+### Couverture:
 Défauts de fabrication : Tout défaut de fabrication affectant le fonctionnement normal de l'appareil sera réparé ou remplacé gratuitement.
 Matériaux défectueux : Les matériaux utilisés dans la fabrication des écouteurs seront garantis contre tout défaut.
 
-###Garantie spécifique à la technologie de lecture de pensée
+### Garantie spécifique à la technologie de lecture de pensée
 Le fabricant garantit que les écouteurs sont conçus pour interpréter les signaux cérébraux avec la plus grande précision possible, en fonction de l'état actuel de la technologie.
 Le fabricant s'engage à protéger la confidentialité des données cérébrales collectées par les écouteurs. Ces données ne seront utilisées qu'à des fins de fonctionnement de l'appareil et ne seront jamais partagées avec des tiers sans le consentement explicite de l'utilisateur.
 Le fabricant se réserve le droit de mettre à jour le logiciel des écouteurs afin d'améliorer les performances et d'intégrer de nouvelles fonctionnalités. Ces mises à jour seront proposées gratuitement aux utilisateurs pendant la durée de la garantie.
