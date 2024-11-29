@@ -6,15 +6,14 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 Prénom ou surnom préféré : Many
 
-Ton animal totem (et pourquoi) : Chat ()
+Ton animal totem (et pourquoi) : Chat (joie de dormir, observateur, indépendant dépendant)
 
 Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet.
-
+Je suis partie vivre seule en Allemagne sans connaître la langue et j'y suis restée plus de 3 ans.
 
 ## 🌐 Apprenons à te connaître
 
 Quel est ton état d’esprit au début de cette formation ?
-Curieuse
 
 Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ?
 
