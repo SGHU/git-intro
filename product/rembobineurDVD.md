@@ -8,6 +8,8 @@
 ###Évitez d'utiliser l'appareil à proximité de sources de matière noire, cela pourrait perturber le flux temporel du rembobinage.
 ###En cas de contact visuel prolongé avec le DVD en rotation, des hallucinations de scènes de films cultes peuvent survenir. Des lunettes de protection anti-cinéma sont recommandées.
 ###Ne pas nourrir le rembobineur. Le rembobineur est sensible aux énergies négatives. Évitez de le confronter à des films d'horreur ou de science-fiction dystopique.
+###Ne tentez pas de rembobiner des DVD contenant des informations confidentielles intergalactiques : Cela pourrait déclencher une alerte chez les forces de l'ordre de la Fédération Spatiale.
+###Ne rien poser sur le rembobineur lors du visionnage.
 
 ###Les fabricants déclinent toute responsabilité en cas de création d'univers parallèles ou de rencontre avec des créatures interdimensionnelles.
 
@@ -35,3 +37,5 @@
 ####3.Appuyez sur le bouton "Hyperespace" pour initier le processus de rembobinage. Des effets sonores spatiaux et des lumières clignotantes accompagneront votre voyage.
 ####Remarque : En cas d'apparition d'entités extraterrestres pendant le rembobinage, utilisez le DVD comme bouclier énergétique.
 ####4.Une fois le point de départ atteint, le rembobineur effectuera un atterrissage en douceur. Vous pouvez alors visionner votre film à nouveau, en commençant par le début.
+
+#####Bon visionnage!
