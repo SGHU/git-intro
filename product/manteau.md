@@ -7,6 +7,7 @@ Fatigué d'emporter trop de sacs et de perdre tout votre temps à chercher vos c
 
 Ce produit est un must-have pour tous ceux qui ont besoin d'emporter plus que ce que leurs poches peuvent offrir.
 
+
 ## Prérequis
 
 Avant d’utiliser le **Manteau à Rangement Infini™**, assurez-vous de disposer des éléments suivants :
