@@ -6,7 +6,7 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 Prénom ou surnom préféré : Vany
 
-Ton animal totem (et pourquoi) :
+Ton animal totem (et pourquoi) : Panda (symbolise la force tranquille)
 
 Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet.
 
