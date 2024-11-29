@@ -13,7 +13,7 @@ Je suis partie vivre seule en Allemagne sans connaître la langue et j'y suis re
 
 ## 🌐 Apprenons à te connaître
 
-Quel est ton état d’esprit au début de cette formation ?
+Quel est ton état d’esprit au début de cette formation ? Curieuse
 
 Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ?
 
