@@ -3,7 +3,7 @@ commantaire
 
 ## Introduction
 
-Fatigué d'emporter trop de sacs et de perdre tout votre temps à chercher vos clés, votre portefeuille ou votre téléphone ? Découvrez le **Manteau à Rangement Infini™** ! Ce manteau révolutionnaire est doté de **poches infinies**, capables de contenir tout ce que vous voulez, sans jamais se remplir ! Vous pouvez y glisser des objets lourds, volumineux, ou même un petit éléphant, et pourtant, les poches restent **légères et élégantes**.
+Fatigué d'emporter trop de sacs et de perdre tout votre temps à chercher vos clés, votre portefeuille ou votre téléphone ? Découvrez le **Manteau à Rangement Infini™** ! Ce manteau révolutionnaire est doté de **poches infinies**, capables de contenir tout ce que vous voulez, sans jamais se remplir ! Vous pouvez y glisser des objets lourds, volumineux, ou même un éléphanteau, et pourtant, les poches restent **légères et élégantes**.
 
 Ce produit est un must-have pour tous ceux qui ont besoin d'emporter plus que ce que leurs poches peuvent offrir.
 
@@ -28,7 +28,7 @@ Avant d’utiliser le **Manteau à Rangement Infini™**, assurez-vous de dispos
 
 1. Choisissez un objet à ranger.
 2. Glissez l'objet dans la poche.
-3. Répétez à l'infini.
+3. Répétez à l'opération.
 
 ### 3. Accès aux objets
 
