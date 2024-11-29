@@ -14,7 +14,7 @@ Avant d'utiliser la Fenêtre à Vision éternelle, il est essentiel de s'assurer
 - **Une connexion à l'électricité**. Même si certaines fonctionnalités sont purement visuelles, d’autres nécessitent une alimentation pour des effets spéciaux.
 - **Un sens de l'humour développé**. L'absurdité de cet objet peut ne pas convenir à tout le monde, et il est important de savoir apprécier son côté non-sens.
 
-### Prérequis techniques :
+### Connaissances préalables :
 - Compatible avec tous les types de murs, qu’ils soient en béton, en brique ou en pâte à modeler (dans un univers parallèle).
 - Nécessite un espace libre d'au moins 1 mètre carré autour de la fenêtre pour son bon fonctionnement (et pour éviter de se prendre les pieds dans le câble).
 - Mise à jour automatique des fonctionnalités toutes les 24 heures, ce qui garantit une expérience constamment nouvelle… mais tout aussi absurde.
