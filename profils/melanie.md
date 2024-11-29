@@ -15,7 +15,7 @@ Je suis partie vivre seule en Allemagne sans connaître la langue et j'y suis re
 
 Quel est ton état d’esprit au début de cette formation ? Curieuse
 
-Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ?
+Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ? médecine
 
 Quel est ton plus grand rêve en lien avec ton parcours professionnel ou personnel ?
 
