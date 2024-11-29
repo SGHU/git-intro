@@ -1,17 +1,13 @@
 
 # Guide d'utilisation - Le Parapluie Anti-Temps™
 
----
-
 ## 🌀 Introduction 
 
-Bienvenue dans l'univers révolutionnaire du **Parapluie Anti-Temps™**, un outil ABSOLUMENT essentiel pour... personne. 
+Bienvenue dans l'univers révolutionnaire du **Parapluie Anti-Temps™**.
 
 Ce parapluie n'est pas seulement ridicule, il est complètement inutile. Grâce à sa technologie AbsurdTech™, il vous permet d’arrêter le temps (pendant que vous êtes sous le parapluie, évidemment). Vous en rêviez ? Eh bien, personne ne l’a demandé, mais nous l’avons fait. 
 
 Plongez dans un monde où pluie et soleil s’arrêtent pour vous laisser contempler votre absurdité.
-
----
 
 ## 📦 Prérequis
 
@@ -23,8 +19,6 @@ Avant de pouvoir manipuler le **Parapluie Anti-Temps™**, assurez-vous d'avoir 
 - De l’huile de coude extra-dimensionnelle (non incluse).
 
 ⚠️ **Attention !** Ne jamais utiliser le parapluie sans ces accessoires, sous peine de créer un trou dans l’espace-temps.
-
----
 
 ## 🛠️ Instructions d’utilisation 
 
@@ -41,24 +35,18 @@ Avant de pouvoir manipuler le **Parapluie Anti-Temps™**, assurez-vous d'avoir 
 2. Dites à haute voix :  
    - *"Ok, je reviens dans la réalité."*
 
----
-
 ### 🌀 **Mode Paradoxe**
 Le Mode Paradoxe permet d’avancer le temps pour tout le monde sauf vous, idéal pour arriver en retard tout en étant à l’heure.
 
 1. Tournez la poignée dans le sens des aiguilles d'une montre.  
 2. Attendez que les aiguilles temporelles de votre montre fusionnent en un vortex.
-3. Souriez, vous avez gagné 5 minutes... dans une autre dimension.
-
----
+3. Souriez, vous avez gagné 5 minutes... dans une autre dimension
 
 ## ⚙️ Entretien et Maintenance
 
 - Nettoyez la toile du parapluie avec des larmes de licorne (disponibles dans notre boutique).
 - Ne laissez pas le parapluie dans des zones de fortes anomalies temporelles.
-- Rechargez le générateur de paradoxes après chaque utilisation (via un port USB-C).
-
----
+- Rechargez le générateur de paradoxes après chaque utilisation (via un port USB-C)
 
 ## 💥 Avertissements
 
@@ -66,13 +54,3 @@ Le Mode Paradoxe permet d’avancer le temps pour tout le monde sauf vous, idéa
 - Toute manipulation hors du champ temporel est interdite par la loi intergalactique.
 - Le fabricant décline toute responsabilité en cas de suppression accidentelle de votre passé.
 
----
-
-## 📸 Exemple d'utilisation
-
-![Le Parapluie Anti-Temps™ en action](https://via.placeholder.com/400x300)
-
----
-
-## **Faites le pas dans l'absurde !**
-Commandez votre Parapluie Anti-Temps™ dès aujourd'hui pour seulement... *aucun prix ne pourra justifier ça.*
