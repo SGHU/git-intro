@@ -17,11 +17,11 @@ Nous verrons ensemble comment faire un commit en ligne de commande et faire un p
 - Le guide doit avoir plusieurs sections:
     - Introduction : Présentez le produit en quelques lignes (en mettant en avant son côté absurde et inutile). Faites un peu de marketing pour les futurs clients.
     - Prérequis : Listez les éléments nécessaires pour utiliser le produit (par exemple, Un câble USB, un trou noir à proximité, et un assistant robotique qui sait programmer).
-    
+
     - Instructions d'utilisation : Décrivez comment utiliser le produit à l'aide de procédures. 
     - Utilisez le markdown pour gérer les titres, sous-titres, listes ordonnées, listes non ordonnées et insertion d'images. ![https://www.markdownguide.org/basic-syntax/](Guide Markdown)
 
-Pour cela : créez une branche, faites vos commits, poussez votre branche puis faites un merge.
+Pour cela : créez une branche, faites vos commits, poussez votre branche puis faites un merge.                            
 
 ## Exercice 3
 
