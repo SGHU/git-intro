@@ -5,4 +5,4 @@ La foodpill est un produit conçu pour remplacer l'alimentation traditionnelle s
 Line item 1. Ouvrir le paquet contenant la pillule.
 Line item 2. Secouer la pillule afin que les arômes se mélangent entre eux.
 Line item 3. Ingurgiter la pillule.
-Bonne appétit!
+Bonne appétit! no more hunger
