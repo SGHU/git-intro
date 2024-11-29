@@ -13,7 +13,7 @@ je joue du piano
 ## 🌐 Apprenons à te connaître
 
 Quel est ton état d’esprit au début de cette formation ?
-
+Impatiente
 Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ?
 
 Quel est ton plus grand rêve en lien avec ton parcours professionnel ou personnel ?
