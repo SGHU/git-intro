@@ -12,7 +12,7 @@ Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait un
 
 ## 🌐 Apprenons à te connaître
 
-Quel est ton état d’esprit au début de cette formation ?
+Quel est ton état d’esprit au début de cette formation ? Confiante
 
 Si tu pouvais apprendre une compétence instantanément (hors Git), laquelle choisirais-tu ?
 
