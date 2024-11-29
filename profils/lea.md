@@ -6,7 +6,7 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 Prénom ou surnom préféré : lea
 
-Ton animal totem (et pourquoi) :
+Ton animal totem (et pourquoi) : aucune idée, ce serait bien que ce soit le loup
 
 Quelle est la chose la plus insolite à savoir sur toi ? Raconte-nous un fait unique, amusant ou impressionnant à ton sujet.
 
