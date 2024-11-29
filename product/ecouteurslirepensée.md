@@ -68,8 +68,8 @@ Profitez de vos **Écouteurs Liseurs de Pensées™**, et souvenez-vous : *"Pens
 12 mois à compter de la date d'achat.
 
 ### Couverture:
-Défauts de fabrication : Tout défaut de fabrication affectant le fonctionnement normal de l'appareil sera réparé ou remplacé gratuitement.
-Matériaux défectueux : Les matériaux utilisés dans la fabrication des écouteurs seront garantis contre tout défaut.
+**Défauts de fabrication** : Tout défaut de fabrication affectant le fonctionnement normal de l'appareil sera réparé ou remplacé gratuitement.
+**Matériaux défectueux** : Les matériaux utilisés dans la fabrication des écouteurs seront garantis contre tout défaut.
 
 ### Garantie spécifique à la technologie de lecture de pensée
 Le fabricant garantit que les écouteurs sont conçus pour interpréter les signaux cérébraux avec la plus grande précision possible, en fonction de l'état actuel de la technologie.
