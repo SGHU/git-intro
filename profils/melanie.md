@@ -4,7 +4,7 @@ Bienvenue dans cette aventure ! Ce formulaire a pour but de mieux te connaître 
 
 ## 📝 Informations générales
 
-Prénom ou surnom préféré : Many
+Prénom ou surnom préféré : Mélanie
 
 Ton animal totem (et pourquoi) : Chat (joie de dormir, observateur, indépendant dépendant)
 
